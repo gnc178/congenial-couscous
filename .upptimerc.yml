@@ -10,10 +10,10 @@ sites:
   - name: Cabinet
     url: https://in.callibri.ru
   - name: Sync
-    url: https://externalcrm.callibri.ru/
+    url: https://externalcrm.callibri.ru
 
 status-website:
-  baseUrl: /congenial-couscous/
+  baseUrl: /congenial-couscous
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
