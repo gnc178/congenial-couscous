@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1018,
-    "timeWeek": 1018,
-    "timeMonth": 1018,
-    "timeYear": 1018,
+    "time": 980,
+    "timeDay": 980,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1944,
-    "timeDay": 1944,
-    "timeWeek": 1944,
-    "timeMonth": 1944,
-    "timeYear": 1944,
+    "time": 1949,
+    "timeDay": 1949,
+    "timeWeek": 1949,
+    "timeMonth": 1949,
+    "timeYear": 1949,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1463,
-    "timeDay": 1463,
-    "timeWeek": 1463,
-    "timeMonth": 1463,
-    "timeYear": 1463,
+    "time": 1435,
+    "timeDay": 1435,
+    "timeWeek": 1435,
+    "timeMonth": 1435,
+    "timeYear": 1435,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/externalcrm.callibri.ru.ico",
     "slug": "sync",
     "status": "down",
-    "uptime": "11.87%",
-    "uptimeDay": "11.87%",
-    "uptimeWeek": "11.87%",
-    "uptimeMonth": "11.87%",
-    "uptimeYear": "11.87%",
-    "time": 838,
-    "timeDay": 838,
-    "timeWeek": 838,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
+    "time": 799,
+    "timeDay": 799,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 3
     }
   }
 ]
