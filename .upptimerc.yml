@@ -11,6 +11,10 @@ sites:
     url: https://in.callibri.ru
   - name: Sync
     url: https://externalcrm.callibri.ru
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   baseUrl: /congenial-couscous
