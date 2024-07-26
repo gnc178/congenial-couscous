@@ -58,7 +58,7 @@
     "url": "https://externalcrm.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/externalcrm.callibri.ru.ico",
     "slug": "sync",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 892,
     "timeMonth": 849,
     "timeYear": 849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "Skvan",
