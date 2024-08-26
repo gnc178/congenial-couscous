@@ -20,6 +20,8 @@ sites:
       - 200
       - 201
       - 404
+  - name: Gudok
+    url: https://gudok.tel
 
 status-website:
   baseUrl: /congenial-couscous
