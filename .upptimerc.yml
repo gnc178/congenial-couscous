@@ -22,6 +22,8 @@ sites:
       - 404
   - name: Gudok
     url: https://gudok.tel
+  - name: PopUp
+    url: https://catchers.callibri.ru
 
 status-website:
   baseUrl: /congenial-couscous
