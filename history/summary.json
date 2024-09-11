@@ -4,18 +4,20 @@
     "url": "https://api.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/api.callibri.ru.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 1318,
-    "timeWeek": 1252,
-    "timeMonth": 1042,
-    "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "time": 1028,
+    "timeDay": 1312,
+    "timeWeek": 1259,
+    "timeMonth": 1049,
+    "timeYear": 1028,
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Landing",
@@ -40,18 +42,20 @@
     "url": "https://in.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/in.callibri.ru.ico",
     "slug": "cabinet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1691,
-    "timeDay": 1977,
-    "timeWeek": 1860,
-    "timeMonth": 1744,
-    "timeYear": 1691,
-    "dailyMinutesDown": {}
+    "time": 1688,
+    "timeDay": 1734,
+    "timeWeek": 1814,
+    "timeMonth": 1737,
+    "timeYear": 1688,
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Sync",
