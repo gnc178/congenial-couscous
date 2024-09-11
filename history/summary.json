@@ -4,19 +4,19 @@
     "url": "https://api.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/api.callibri.ru.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 1312,
-    "timeWeek": 1259,
-    "timeMonth": 1049,
-    "timeYear": 1028,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1026,
+    "timeDay": 1176,
+    "timeWeek": 1219,
+    "timeMonth": 1045,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 15
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://in.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/in.callibri.ru.ico",
     "slug": "cabinet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1688,
-    "timeDay": 1734,
-    "timeWeek": 1814,
-    "timeMonth": 1737,
-    "timeYear": 1688,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1689,
+    "timeDay": 1750,
+    "timeWeek": 1810,
+    "timeMonth": 1738,
+    "timeYear": 1689,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 15
     }
   },
   {
