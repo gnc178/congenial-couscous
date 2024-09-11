@@ -24,6 +24,22 @@ sites:
     url: https://gudok.tel
   - name: PopUp
     url: https://catchers.callibri.ru
+  - name: Mapi
+    url: https://mapi.callibri.ru
+  - name: Chapi
+    url: http://chapi.callibri.ru
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Module
+    url: https://module.callibri.ru
+  - name: Blog
+    url: https://blog.callibri.ru
+  - name: Minimo
+    url: https://minimo.callibri.ru
+  - name: Ws
+    url: https://ws.callibri.ru/
 
 status-website:
   baseUrl: /congenial-couscous
