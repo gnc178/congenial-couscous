@@ -1,5 +1,6 @@
 owner: gnc178
 repo: congenial-couscous
+skipDeleteIssues: true
 
 sites:
   - name: API
