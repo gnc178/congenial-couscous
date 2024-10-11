@@ -13,7 +13,7 @@
     "time": 1019,
     "timeDay": 1221,
     "timeWeek": 1120,
-    "timeMonth": 1010,
+    "timeMonth": 1009,
     "timeYear": 1019,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2450,
     "timeDay": 2984,
     "timeWeek": 2589,
-    "timeMonth": 2257,
+    "timeMonth": 2268,
     "timeYear": 2450,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1675,
     "timeDay": 1894,
     "timeWeek": 1895,
-    "timeMonth": 1646,
+    "timeMonth": 1660,
     "timeYear": 1675,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 961,
     "timeDay": 1189,
     "timeWeek": 901,
-    "timeMonth": 1074,
+    "timeMonth": 1085,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2024-07-26": 30
@@ -78,18 +78,20 @@
     "url": "https://skvan.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/skvan.callibri.ru.ico",
     "slug": "skvan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 857,
     "timeWeek": 1020,
-    "timeMonth": 920,
+    "timeMonth": 926,
     "timeYear": 950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 3
+    }
   },
   {
     "name": "Gudok",
@@ -105,7 +107,7 @@
     "time": 1757,
     "timeDay": 1605,
     "timeWeek": 1955,
-    "timeMonth": 1646,
+    "timeMonth": 1660,
     "timeYear": 1757,
     "dailyMinutesDown": {}
   },
@@ -123,7 +125,7 @@
     "time": 920,
     "timeDay": 846,
     "timeWeek": 982,
-    "timeMonth": 899,
+    "timeMonth": 903,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -132,18 +134,20 @@
     "url": "https://mapi.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mapi.callibri.ru.ico",
     "slug": "mapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 836,
     "timeWeek": 927,
-    "timeMonth": 836,
+    "timeMonth": 839,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 2
+    }
   },
   {
     "name": "Chapi",
@@ -159,7 +163,7 @@
     "time": 652,
     "timeDay": 622,
     "timeWeek": 793,
-    "timeMonth": 652,
+    "timeMonth": 654,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
@@ -168,18 +172,20 @@
     "url": "https://module.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/module.callibri.ru.ico",
     "slug": "module",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 865,
     "timeDay": 837,
     "timeWeek": 873,
-    "timeMonth": 865,
+    "timeMonth": 869,
     "timeYear": 865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 1
+    }
   },
   {
     "name": "Blog",
@@ -195,7 +201,7 @@
     "time": 1418,
     "timeDay": 1574,
     "timeWeek": 1499,
-    "timeMonth": 1418,
+    "timeMonth": 1422,
     "timeYear": 1418,
     "dailyMinutesDown": {}
   },
@@ -213,7 +219,7 @@
     "time": 1005,
     "timeDay": 1017,
     "timeWeek": 1122,
-    "timeMonth": 1005,
+    "timeMonth": 1009,
     "timeYear": 1005,
     "dailyMinutesDown": {}
   },
@@ -222,17 +228,19 @@
     "url": "https://ws.callibri.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/ws.callibri.ru.ico",
     "slug": "ws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 1061,
     "timeWeek": 985,
-    "timeMonth": 965,
+    "timeMonth": 964,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   }
 ]
