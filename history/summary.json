@@ -78,19 +78,19 @@
     "url": "https://skvan.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/skvan.callibri.ru.ico",
     "slug": "skvan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 857,
-    "timeWeek": 1020,
-    "timeMonth": 926,
-    "timeYear": 950,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1026,
+    "timeDay": 4424,
+    "timeWeek": 1892,
+    "timeMonth": 1147,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2024-10-11": 3
+      "2024-10-11": 17
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://mapi.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mapi.callibri.ru.ico",
     "slug": "mapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 836,
-    "timeWeek": 927,
-    "timeMonth": 839,
-    "timeYear": 836,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1075,
+    "timeDay": 4784,
+    "timeWeek": 1902,
+    "timeMonth": 1085,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2024-10-11": 2
+      "2024-10-11": 17
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "https://module.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/module.callibri.ru.ico",
     "slug": "module",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 837,
-    "timeWeek": 873,
-    "timeMonth": 869,
-    "timeYear": 865,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1003,
+    "timeDay": 3137,
+    "timeWeek": 1444,
+    "timeMonth": 1011,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2024-10-11": 1
+      "2024-10-11": 16
     }
   },
   {
@@ -192,9 +192,9 @@
     "url": "https://blog.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/blog.callibri.ru.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,7 +203,9 @@
     "timeWeek": 1499,
     "timeMonth": 1422,
     "timeYear": 1418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "Minimo",
@@ -228,19 +230,19 @@
     "url": "https://ws.callibri.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/ws.callibri.ru.ico",
     "slug": "ws",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 1061,
-    "timeWeek": 985,
-    "timeMonth": 964,
-    "timeYear": 965,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1072,
+    "timeDay": 2776,
+    "timeWeek": 1424,
+    "timeMonth": 1074,
+    "timeYear": 1072,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 16
     }
   }
 ]
