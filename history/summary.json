@@ -154,9 +154,9 @@
     "url": "http://chapi.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/chapi.callibri.ru.ico",
     "slug": "chapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +165,9 @@
     "timeWeek": 697,
     "timeMonth": 688,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-27": 0
+    }
   },
   {
     "name": "Module",
