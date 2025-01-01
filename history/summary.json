@@ -134,10 +134,10 @@
     "url": "https://mapi.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mapi.callibri.ru.ico",
     "slug": "mapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 937,
@@ -146,6 +146,7 @@
     "timeMonth": 849,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2025-01-01": 1,
       "2024-10-11": 17
     }
   },
