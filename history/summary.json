@@ -40,19 +40,19 @@
     "url": "https://in.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/in.callibri.ru.ico",
     "slug": "cabinet",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1658,
-    "timeDay": 1116,
-    "timeWeek": 1443,
-    "timeMonth": 1581,
-    "timeYear": 1658,
+    "time": 1656,
+    "timeDay": 1201,
+    "timeWeek": 1423,
+    "timeMonth": 1572,
+    "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-01-04": 0
+      "2025-01-04": 11
     }
   },
   {
