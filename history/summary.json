@@ -221,19 +221,19 @@
     "url": "https://minimo.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/minimo.callibri.ru.ico",
     "slug": "minimo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 1030,
-    "timeWeek": 927,
-    "timeMonth": 945,
-    "timeYear": 999,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1000,
+    "timeDay": 1063,
+    "timeWeek": 948,
+    "timeMonth": 950,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2025-01-05": 0
+      "2025-01-05": 20
     }
   },
   {
