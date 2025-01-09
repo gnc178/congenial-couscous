@@ -1,7 +1,7 @@
 url: https://module.callibri.ru
-status: up
-code: 200
-responseTime: 904
-lastUpdated: 2025-01-08T23:14:34.697Z
+status: down
+code: 503
+responseTime: 623
+lastUpdated: 2025-01-09T19:31:40.107Z
 startTime: 2024-09-11T04:42:00.460Z
 generator: Upptime <https://github.com/upptime/upptime>
