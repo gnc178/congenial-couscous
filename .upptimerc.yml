@@ -41,6 +41,10 @@ sites:
     url: https://minimo.callibri.ru
   - name: Ws
     url: https://ws.callibri.ru/
+  - name: PWA
+    url: https://dialog.callibri.ru
+  - name: Pong
+    url: https://pong.callibri.ru
 
 status-website:
   baseUrl: /congenial-couscous
