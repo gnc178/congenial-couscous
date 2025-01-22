@@ -284,19 +284,19 @@
     "url": "https://pong.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pong.callibri.ru.ico",
     "slug": "pong",
-    "status": "down",
-    "uptime": "5.34%",
-    "uptimeDay": "5.34%",
-    "uptimeWeek": "5.34%",
-    "uptimeMonth": "5.34%",
-    "uptimeYear": "5.34%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 869,
+    "timeDay": 869,
+    "timeWeek": 869,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-22": 19
     }
   }
 ]
