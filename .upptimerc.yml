@@ -21,8 +21,10 @@ sites:
       - 200
       - 201
       - 404
-  - name: Gudok
+  - name: Gudok Landing
     url: https://gudok.tel
+  - name: Gudok Cabinet
+    url: https://in.gudok.tel
   - name: PopUp
     url: https://catchers.callibri.ru
   - name: Mapi
