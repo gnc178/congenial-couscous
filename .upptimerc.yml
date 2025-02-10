@@ -47,6 +47,8 @@ sites:
     url: https://dialog.callibri.ru
   - name: Pong
     url: https://pong.callibri.ru
+  - name: Registry
+    url: https://registry.callibri.ru
 
 status-website:
   baseUrl: /congenial-couscous
