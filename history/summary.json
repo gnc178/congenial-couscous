@@ -139,18 +139,20 @@
     "url": "https://catchers.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/catchers.callibri.ru.ico",
     "slug": "pop-up",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 3174,
-    "timeWeek": 2961,
-    "timeMonth": 1653,
-    "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "time": 1101,
+    "timeDay": 1947,
+    "timeWeek": 2681,
+    "timeMonth": 1627,
+    "timeYear": 1101,
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   },
   {
     "name": "Mapi",
