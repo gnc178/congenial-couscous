@@ -49,6 +49,24 @@ sites:
     url: https://pong.callibri.ru
   - name: Registry
     url: https://registry.callibri.ru
+  - name: 2g.tel
+    url: https://2g.tel
+  - name: Brief
+    url: https://brief-media.ru
+  - name: SmartSms
+    url: https://smartsms.callibri.ru
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Callibri GCDN Script
+    url: https://gcdn.callibri.ru/callibri.js
+  - name: Callibri CDN Script
+    url: https://cdn.callibri.ru/callibri.js
+  - name: Gudok GCDN Script
+    url: https://gcdn.gudok.tel/script.js
+  - name: Gudok CDN Script
+    url: https://mod.gudok.tel/script.js
 
 status-website:
   baseUrl: /congenial-couscous
