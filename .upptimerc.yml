@@ -67,6 +67,10 @@ sites:
     url: https://gcdn.gudok.tel/script.js
   - name: Gudok CDN Script
     url: https://mod.gudok.tel/script.js
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   baseUrl: /congenial-couscous
