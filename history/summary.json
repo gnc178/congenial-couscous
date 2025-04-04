@@ -369,18 +369,20 @@
     "url": "https://brief-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/brief-media.ru.ico",
     "slug": "brief",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2394,
     "timeDay": 1398,
     "timeWeek": 2394,
     "timeMonth": 2394,
     "timeYear": 2394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "SmartSms",
@@ -417,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 87,
+      "2025-04-04": 478,
       "2025-04-03": 1440,
       "2025-04-02": 1013
     }
@@ -457,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 87,
+      "2025-04-04": 478,
       "2025-04-03": 1440,
       "2025-04-02": 1012
     }
