@@ -369,10 +369,10 @@
     "url": "https://brief-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/brief-media.ru.ico",
     "slug": "brief",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 2351,
@@ -381,6 +381,7 @@
     "timeMonth": 2351,
     "timeYear": 2351,
     "dailyMinutesDown": {
+      "2025-04-15": 1,
       "2025-04-04": 31
     }
   },
@@ -419,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 99,
+      "2025-04-15": 931,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -470,7 +471,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 99,
+      "2025-04-15": 931,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
