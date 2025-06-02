@@ -106,18 +106,19 @@
     "url": "https://gudok.tel",
     "icon": "https://icons.duckduckgo.com/ip3/gudok.tel.ico",
     "slug": "gudok-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1709,
-    "timeDay": 1115,
-    "timeWeek": 1451,
-    "timeMonth": 1365,
-    "timeYear": 1709,
+    "time": 1821,
+    "timeDay": 8787,
+    "timeWeek": 3327,
+    "timeMonth": 1836,
+    "timeYear": 1821,
     "dailyMinutesDown": {
+      "2025-06-02": 1,
       "2025-03-11": 10
     }
   },
@@ -126,10 +127,10 @@
     "url": "https://in.gudok.tel",
     "icon": "https://icons.duckduckgo.com/ip3/in.gudok.tel.ico",
     "slug": "gudok-cabinet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1579,
@@ -137,7 +138,9 @@
     "timeWeek": 1536,
     "timeMonth": 1438,
     "timeYear": 1579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-02": 1
+    }
   },
   {
     "name": "PopUp",
@@ -420,7 +423,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-02": 107,
+      "2025-06-02": 329,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -521,7 +524,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-02": 107,
+      "2025-06-02": 329,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
