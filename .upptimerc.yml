@@ -71,6 +71,8 @@ sites:
       - 200
       - 201
       - 404
+  - name: Health
+    url: https://health.callibri.ru
 
 status-website:
   baseUrl: /congenial-couscous
