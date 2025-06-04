@@ -59,12 +59,8 @@ sites:
       - 200
       - 201
       - 404
-  - name: Callibri GCDN Script
-    url: https://gcdn.callibri.ru/callibri.js
   - name: Callibri CDN Script
     url: https://cdn.callibri.ru/callibri.js
-  - name: Gudok GCDN Script
-    url: https://gcdn.gudok.tel/script.js
   - name: Gudok CDN Script
     url: https://mod.gudok.tel/script.js
     expectedStatusCodes:
