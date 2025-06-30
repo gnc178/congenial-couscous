@@ -318,9 +318,9 @@
     "url": "https://pong.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pong.callibri.ru.ico",
     "slug": "pong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -330,6 +330,7 @@
     "timeMonth": 1019,
     "timeYear": 988,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2025-01-22": 19
     }
   },
@@ -465,7 +466,7 @@
     "timeMonth": 810,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-06-30": 110,
+      "2025-06-30": 588,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
