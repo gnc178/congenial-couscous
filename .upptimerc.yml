@@ -69,6 +69,10 @@ sites:
       - 404
   - name: Health
     url: https://health.callibri.ru
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   baseUrl: /congenial-couscous
