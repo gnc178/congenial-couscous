@@ -51,8 +51,6 @@ sites:
     url: https://registry.callibri.ru
   - name: 2g.tel
     url: https://2g.tel
-  - name: Brief
-    url: https://brief-media.ru
   - name: SmartSms
     url: https://smartsms.callibri.ru
     expectedStatusCodes:
