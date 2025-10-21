@@ -71,6 +71,10 @@ sites:
       - 200
       - 201
       - 404
+  - name: GitLab
+    url: https://code.callibri.ru
+  - name: Registry
+    url: https://registry.callibri.ru
 
 status-website:
   baseUrl: /congenial-couscous
