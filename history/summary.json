@@ -355,10 +355,10 @@
     "url": "https://registry.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/registry.callibri.ru.ico",
     "slug": "registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 823,
@@ -367,7 +367,7 @@
     "timeMonth": 768,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-10-25": 20
+      "2025-10-25": 22
     }
   },
   {
@@ -455,11 +455,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.callibri.ru.ico",
     "slug": "health",
     "status": "up",
-    "uptime": "70.82%",
+    "uptime": "70.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "70.82%",
+    "uptimeYear": "70.83%",
     "time": 830,
     "timeDay": 788,
     "timeWeek": 821,
@@ -535,10 +535,10 @@
     "url": "https://registry.callibri.ru",
     "icon": "https://icons.duckduckgo.com/ip3/registry.callibri.ru.ico",
     "slug": "registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 823,
@@ -547,7 +547,7 @@
     "timeMonth": 768,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-10-25": 20
+      "2025-10-25": 22
     }
   }
 ]
